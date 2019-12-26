@@ -61,8 +61,6 @@ public class Matrix {
 
             x[i] = (b[i] - sum) / A[i][i];
         }
-
-
     }
 
     public void swapRows(int row1, int row2) {
